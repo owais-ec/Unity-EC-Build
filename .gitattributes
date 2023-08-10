@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:8677c8fb5b65abfd61ae7585c03f09fb768d1abf24b0afbf901bf13ea46ed911
-size 449
+EC-Telemetry.exe filter=lfs diff=lfs merge=lfs -text
+EC-Telemetry_Data filter=lfs diff=lfs merge=lfs -text
+MonoBleedingEdge filter=lfs diff=lfs merge=lfs -text
+UnityCrashHandler64.exe filter=lfs diff=lfs merge=lfs -text
+UnityPlayer.dll filter=lfs diff=lfs merge=lfs -text
+Update.bat filter=lfs diff=lfs merge=lfs -text
+Data filter=lfs diff=lfs merge=lfs -text
